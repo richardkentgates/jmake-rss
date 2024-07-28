@@ -3,8 +3,8 @@ Embed RSS feed with variables for url, author, post count, and the id of the ele
 
 Set target id:
 
-[code]<div id="latest-posts">[/code]
+`<div id="latest-posts">`
 
 Call the function:
 
-[code]rssEmbed.f.latestPost('https://gapcreekmedia.com/feed](https://feeds.npr.org/1001/rss.xml',null,12,'latest-posts');[/code]
+`rssEmbed.f.latestPost('https://gapcreekmedia.com/feed](https://feeds.npr.org/1001/rss.xml',null,12,'latest-posts');`
