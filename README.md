@@ -7,4 +7,4 @@ Set target id:
 
 Call the function:
 
-`rssEmbed.f.latestPost('https://gapcreekmedia.com/feed](https://feeds.npr.org/1001/rss.xml',null,12,'latest-posts');`
+rssEmbed.f.latestPost('https://gapcreekmedia.com/feed',null,100,'post');
